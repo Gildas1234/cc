@@ -1,0 +1,10 @@
+header > h1  {
+margin-left: 750px ;}
+ 
+ footer {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    background-color: pink;
+    color: white;
+}
